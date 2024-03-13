@@ -7,10 +7,10 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 
 @SpringBootApplication
 @EnableConfigurationProperties(RsaKeyProperties.class)
-public class FilereaderApplication {
+public class FileReaderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FilereaderApplication.class, args);
+        SpringApplication.run(FileReaderApplication.class, args);
     }
 
 }
