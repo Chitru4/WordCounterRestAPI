@@ -1,4 +1,4 @@
-package com.airtel.filereader.filereader;
+package com.example.filereader.filereader;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
@@ -41,7 +41,6 @@ public class WordCounter {
                     if (changedWord.equals(requiredWord)) {
                         requiredWordFrequency++;
                     }
-                    System.out.println(word);
                 }
             }
         }

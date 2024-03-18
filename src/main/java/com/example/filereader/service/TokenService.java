@@ -1,4 +1,4 @@
-package com.airtel.filereader.service;
+package com.example.filereader.service;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

@@ -1,6 +1,6 @@
-package com.airtel.filereader;
+package com.example.filereader;
 
-import com.airtel.filereader.config.RsaKeyProperties;
+import com.example.filereader.config.RsaKeyProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

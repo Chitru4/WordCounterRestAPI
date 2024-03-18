@@ -1,6 +1,6 @@
-package com.airtel.filereader.controller;
+package com.example.filereader.controller;
 
-import com.airtel.filereader.service.TokenService;
+import com.example.filereader.service.TokenService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.Authentication;

@@ -1,6 +1,6 @@
-package com.airtel.filereader.controller;
+package com.example.filereader.controller;
 
-import com.airtel.filereader.filereader.WordCounter;
+import com.example.filereader.filereader.WordCounter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

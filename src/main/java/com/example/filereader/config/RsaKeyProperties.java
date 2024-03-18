@@ -1,4 +1,4 @@
-package com.airtel.filereader.config;
+package com.example.filereader.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
